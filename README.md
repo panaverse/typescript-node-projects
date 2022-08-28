@@ -2,6 +2,10 @@
 
 [The repo is part of the Certified Web 3 and Metaverse Developer Program](https://www.panaverse.co/)
 
+Before we start the learning process, review this articles:
+
+[TypeScript Job Postings Explode](https://visualstudiomagazine.com/articles/2022/08/24/typescript-job-growth.aspx?m=1)
+
 ## Textbooks
 
 Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
