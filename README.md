@@ -1,2 +1,2 @@
-# typescript-projects
-Programming Projects to Learn TypeScript and Node.js
+# Learning Programming with TypeScript and Node.js
+
