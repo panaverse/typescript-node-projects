@@ -36,6 +36,32 @@ Inquirer is an NPM package that provides an easy way to capture user input in yo
 
 [Use Inquirer.js to Create a Conversational CLI User Interface](https://pakstech.com/blog/inquirer-js/)
 
+## Fundamentals of Version Control with Git 
+
+All projects will be sumitted by creating a public repository on GitHub. Please learn Git and GitHub by using these resources:
+
+[Version Control using Git and GitHub By Sir Zeeshan Hanif Videos](https://www.youtube.com/playlist?list=PL4lZMpZtayiGkfhq9AbFTSd4GbX25C_0L)
+
+Chapters 1, 2, 3, and 4 Learn Version Control with Git: A step-by-step course for the complete beginner by Tobias Günther 
+
+We will also covers these readings:
+https://help.github.com/articles/markdown-basics/ 
+
+http://stackoverflow.com/questions/5009600/difference-between-fork-and-branch-on-github 
+
+http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences 
+
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing 
+
+http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches#Tracking-Branches 
+
+For practice: https://try.github.io/levels/1/challenges/1 
+
+Homework:
+
+https://www.datacamp.com/courses/introduction-to-git-for-data-science  
+
+
 
 
 
