@@ -45,6 +45,7 @@ All projects will be sumitted by creating a public repository on GitHub. Please 
 Chapters 1, 2, 3, and 4 Learn Version Control with Git: A step-by-step course for the complete beginner by Tobias Günther 
 
 We will also covers these readings:
+
 https://help.github.com/articles/markdown-basics/ 
 
 http://stackoverflow.com/questions/5009600/difference-between-fork-and-branch-on-github 
