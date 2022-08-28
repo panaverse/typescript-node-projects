@@ -14,7 +14,7 @@
 
 [Output to the command line using Node.js](https://nodejs.dev/en/learn/output-to-the-command-line-using-nodejs/)
 
-## Creating a Command Line Interface 
+## Create a Conversational CLI User Interface
 
 Inquirer is an NPM package that provides an easy way to capture user input in your Node. js command line interface applications. It provides several methods for asking questions and returning answers from the user that can be accessed by a . then promise function.
 
@@ -33,6 +33,8 @@ Inquirer is an NPM package that provides an easy way to capture user input in yo
 [Create An Advanced CLI — With TypeScript](https://levelup.gitconnected.com/create-your-own-advanced-cli-with-typescript-5868ae3df397)
 
 [How To Create Your Own TypeScript CLI — With Node.js](https://itnext.io/how-to-create-your-own-typescript-cli-with-node-js-1faf7095ef89)
+
+[Use Inquirer.js to Create a Conversational CLI User Interface](https://pakstech.com/blog/inquirer-js/)
 
 
 
