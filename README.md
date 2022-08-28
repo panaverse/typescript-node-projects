@@ -16,6 +16,8 @@
 
 ## Creating a Command Line Interface 
 
+Inquirer is an NPM package that provides an easy way to capture user input in your Node. js command line interface applications. It provides several methods for asking questions and returning answers from the user that can be accessed by a . then promise function.
+
 [Inquirer](https://www.npmjs.com/package/inquirer)
 
 [Inquirer Types](https://www.npmjs.com/package/@types/inquirer)
