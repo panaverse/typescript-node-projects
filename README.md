@@ -1,5 +1,7 @@
 # Learning Programming with TypeScript and Node.js
 
+[The repo is part of the Certified Web 3 and Metaverse Developer Program](https://www.panaverse.co/)
+
 ## Textbooks
 
 Chapters 2-6, 13 of [JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](https://www.amazon.com/JavaScript-Beginner-Professional-building-interactive/dp/1800562527/ref=sr_1_4)
