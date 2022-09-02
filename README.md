@@ -50,7 +50,7 @@ Inquirer is an NPM package that provides an easy way to capture user input in yo
 
 ## Fundamentals of Version Control with Git 
 
-All projects will be sumitted by creating a public repository on GitHub. Please learn Git and GitHub by using these resources:
+All projects will be sumitted by creating a private repository on GitHub. Please learn Git and GitHub by using these resources:
 
 [Version Control using Git and GitHub By Sir Zeeshan Hanif Videos](https://www.youtube.com/playlist?list=PL4lZMpZtayiGkfhq9AbFTSd4GbX25C_0L)
 
