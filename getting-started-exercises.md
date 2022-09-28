@@ -90,7 +90,7 @@ a message to that person letting them know you’re sorry you can’t invite the
 of your program.
 
 18. Seeing the World: Think of at least five places in the world you’d like to visit.
-19. 
+
 • Store the locations in a array. Make sure the array is not in alphabetical order.
 
 • Print your array in its original order.
