@@ -172,7 +172,7 @@ write an if-else chain.
 • Write one version of this program that runs the if block and another that runs the else block.
 
 
-27. Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else chain.
+27. Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else if-else chain.
 
 • If the alien is green, print a message that the player earned 5 points.
 
