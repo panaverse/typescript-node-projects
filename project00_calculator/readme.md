@@ -14,3 +14,5 @@ Run the following command to experience a CLI game:
         npx firequiz
 
 Now review the [source code](https://github.com/fireship-io/javascript-millionaire) for Firequiz game.
+
+## [Submit your projects here](https://forms.gle/A37eRgiz46wvfTUv6)
