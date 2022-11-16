@@ -2,7 +2,7 @@
 
 [The repo is part of the Certified Web 3 and Metaverse Developer Program](https://www.panaverse.co/)
 
-[Submit your projects here](https://forms.gle/A37eRgiz46wvfTUv6)
+## [Submit your projects here](https://forms.gle/A37eRgiz46wvfTUv6)
 
 Before we start the learning process, review this articles:
 
