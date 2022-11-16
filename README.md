@@ -48,6 +48,16 @@ Inquirer is an NPM package that provides an easy way to capture user input in yo
 
 [Use Inquirer.js to Create a Conversational CLI User Interface](https://pakstech.com/blog/inquirer-js/)
 
+You can develop [CLI Games](https://www.youtube.com/watch?v=_oHByo8tiEY) using Inquirer, Chalk, etc. All your class projects will be CLI based and should be deployed as an [NPX command](https://blog.deepgram.com/npx-script/)
+
+[How to create a NPX tool](https://blog.shahednasser.com/how-to-create-a-npx-tool/)
+
+Run the following command to experience a CLI game:
+
+        npx firequiz
+
+Now review the [source code](https://github.com/fireship-io/javascript-millionaire) for Firequiz game.
+
 ## Fundamentals of Version Control with Git 
 
 All projects will be sumitted by creating a private repository on GitHub. Please learn Git and GitHub by using these resources:
