@@ -6,7 +6,7 @@ You might want to create a new folder for each exercise to keep them organized. 
 1. Install [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/download)  and [VS Code](https://code.visualstudio.com/) on your computer.
 
 2. Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric,
-would you like to learn some Python today?”
+would you like to learn some Javascript today?”
 
 3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
 
@@ -51,7 +51,7 @@ to print a series of statements about these items, such as “I would like to ow
 14. Guest List: If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to
 invite to dinner. Then use your list to print a message to each person, inviting them to dinner.
 
-15. Changing Guest List: You just heard that one of your guests can’t make the
+15. Changing Guest List: You just heard that one of your guests can’t make it to the
 dinner, so you need to send out a new set of invitations. You’ll have to think of
 someone else to invite.
 
@@ -73,7 +73,7 @@ bigger dinner table.
 • Add one new guest to the beginning of your array.
 
 • Add one new guest to the middle of your array.
-• Use append() to add one new guest to the end of your list.
+• Use push() to add one new guest to the end of your list.
 • Print a new set of invitation messages, one for each person in your list.
 
 17. Shrinking Guest List: You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
@@ -171,7 +171,7 @@ write an if-else chain.
 • Write one version of this program that runs the if block and another that runs the else block.
 
 
-27. Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else chain.
+27. Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else if-else chain.
 
 • If the alien is green, print a message that the player earned 5 points.
 
@@ -300,12 +300,12 @@ function call that includes the number of tracks on an album.
 41. Magicians: Make a array of magician’s names. Pass the array to a function
 called show_magicians(), which prints the name of each magician in the array.
 
-42. Great Magicians: Start with a copy of your program from Exercise 39.
+42. Great Magicians: Start with a copy of your program from Exercise 41.
 Write a function called make_great() that modifies the array of magicians by adding
 the phrase the Great to each magician’s name. Call show_magicians() to
 see that the list has actually been modified.
 
-43. Unchanged Magicians: Start with your work from Exercise 40. Call the
+43. Unchanged Magicians: Start with your work from Exercise 42. Call the
 function make_great() with a copy of the array of magicians’ names. Because the
 original array will be unchanged, return the new array and store it in a separate array.
 Call show_magicians() with each array to show that you have one array of the original
