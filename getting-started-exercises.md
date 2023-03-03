@@ -210,7 +210,7 @@ after they log in to a website. Loop through the array, and print a greeting to 
 
 • Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.
 
-31. No Users: Add an if test to Exercise 28 to make sure the list of users is not empty.
+31. No Users: Add an if test to Exercise 30 to make sure the list of users is not empty.
 
 • If the list is empty, print the message We need to find some users!
 
