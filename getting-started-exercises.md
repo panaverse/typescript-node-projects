@@ -73,7 +73,7 @@ bigger dinner table.
 • Add one new guest to the beginning of your array.
 
 • Add one new guest to the middle of your array.
-• Use append() to add one new guest to the end of your list.
+• Use push() to add one new guest to the end of your list.
 • Print a new set of invitation messages, one for each person in your list.
 
 17. Shrinking Guest List: You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
