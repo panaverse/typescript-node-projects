@@ -90,7 +90,14 @@ a message to that person letting them know you’re sorry you can’t invite the
 • Remove the last two names from your list, so you have an empty list. Print your list to make sure you actually have an empty list at the end
 of your program.
 
-18. Seeing the World: Think of at least five places in the world you’d like to visit.
+18. Dinner Guests: Working with one of the programs from Exercises 14 through 17, print a message indicating the number
+of people you are inviting to dinner.
+
+19. Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything
+else you’d like. Write a program that creates a list containing these items.
+
+
+20. Seeing the World: Think of at least five places in the world you’d like to visit.
 
 • Store the locations in a array. Make sure the array is not in alphabetical order.
 
@@ -113,17 +120,10 @@ order has changed.
 
 • Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
 
-19. Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number
-of people you are inviting to dinner.
-
-20. Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything
-else you’d like. Write a program that creates a list containing these items.
-
 21. They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
 
 22. Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs
 to produce an index error. Make sure you correct the error before closing the program.
-
 
 23. Conditional Tests: Write a series of conditional tests. Print a statement
 describing each test and your prediction for the results of each test. Your code
